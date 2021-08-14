@@ -1,4 +1,7 @@
-pragma solidity ^0.8.0; // telling the sol compiler to run this version and nothing lower
+
+// SPDX-License-Identifier: UNLICENSED
+
+pragma solidity ^0.8.4; // telling the sol compiler to run this version and nothing lower
 
 import "hardhat/console.sol"; //importing some stuff from Hardhat
 
