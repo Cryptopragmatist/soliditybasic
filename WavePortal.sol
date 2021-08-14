@@ -9,3 +9,4 @@ contract WavePortal { //  contract is a collection of code (its functions) and d
 }
 
 // to run a contract -> 1. Compile it. 2. Deploy it to our local blockchain. 3. call the function
+// read the docs
